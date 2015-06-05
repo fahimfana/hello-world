@@ -1,8 +1,1 @@
-public class hello
-{
-  public static void main(String a[])
-  {
-    System.out.print("hello");
-  }
-  
-}
+This is helloworld example of java
